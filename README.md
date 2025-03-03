@@ -1,1 +1,1 @@
-Built and Android App to fetch the List of Countries.
+Built an Android App to fetch the List of Countries.
